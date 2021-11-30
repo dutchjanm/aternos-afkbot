@@ -1,5 +1,5 @@
 {
-	"ip":"YOUR_ATERNOS_SERVER_IP",
-	"port": "YOUR_ATERNOS_SERVER_PORT",
+	"ip":"mcserver2911.aternos.me",
+	"port": "60940",
 	"name": "BOT_NAME"
 }
